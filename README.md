@@ -10,7 +10,7 @@ This is a simple Task Management Web Application with a full-stack implementatio
 - MySQL (or another database of your choice)
 
 ### Setup
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/Knightfury62/Task-Management`
 2. Navigate to the `backend` directory: `cd backend`
 3. Open the `src/main/resources/application.properties` file and configure your database settings.
 4. Run the application: `mvn spring-boot:run`
